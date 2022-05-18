@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Marcos",
+      "empresa": "LaMIA",
+      "email": "marcos@correo.es",
+      "telefono": "123456789",
+      "notas": "No hay ninguna nota",
+      "id": 1
+    },
+    {
+      "nombre": "Noe",
+      "empresa": "Tourmalina",
+      "email": "noe@noe.es",
+      "telefono": "123456789",
+      "notas": "nada de nada",
+      "id": 3
+    },
+    {
+      "nombre": "Adriana",
+      "empresa": "La de mi Casa",
+      "email": "adri@adri.es",
+      "telefono": "12356987",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "Nora",
+      "empresa": "Norita S.L.",
+      "email": "nora@nora.es",
+      "telefono": "123456789",
+      "notas": "GUAU GUAU",
+      "id": 5
+    }
+  ]
+}
